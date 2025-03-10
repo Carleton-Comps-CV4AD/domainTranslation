@@ -1,3 +1,5 @@
+#This code is primarily used to rewriet items in the .odgt files, feel free to ignore
+
 import os
 
 # Set the directory where the files are located
