@@ -1,3 +1,7 @@
+# This Code is used primarily to read our .odgt files, if you do nto have any you can feel free to skip
+# this process.
+
+
 import json
 import os
 import shutil
